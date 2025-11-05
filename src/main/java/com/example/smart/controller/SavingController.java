@@ -1,8 +1,8 @@
 // SavingController.java
-package com.example.controller;
+package com.example.smart.controller;
 
-import com.example.dto.SavingDTO;
-import com.example.service.SavingService;
+import com.example.smart.dto.SavingDTO;
+import com.example.smart.service.SavingService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 

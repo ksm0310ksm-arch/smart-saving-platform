@@ -1,6 +1,6 @@
-package com.example.dto;
+package com.example.smart.dto;
 
-import com.example.entity.Saving;
+import com.example.smart.entity.Saving;
 import lombok.*;
 
 @Getter

@@ -1,8 +1,8 @@
-package com.example.service;
+package com.example.smart.service;
 
-import com.example.dto.SavingDTO;
-import com.example.entity.Saving;
-import com.example.repository.SavingRepository;
+import com.example.smart.dto.SavingDTO;
+import com.example.smart.entity.Saving;
+import com.example.smart.repository.SavingRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
